@@ -1,0 +1,30 @@
+.second-section img {
+     width: 50px;
+}
+.second-section {
+     width: 50%;
+}
+.card-footer {
+     background-color: white;
+     border: 0;
+}
+.shoes-card-footer {
+     background-color: white; 
+    border: 0;
+   
+}
+.second-back-color {
+     background-color: grey;
+}
+.first-color {
+     background-color:rgb(194, 194, 137);
+}
+.box img {
+     width: 70%;
+}
+.last-class {
+     background-color:seagreen;
+}
+h3 {
+     font-weight: 900;
+}
